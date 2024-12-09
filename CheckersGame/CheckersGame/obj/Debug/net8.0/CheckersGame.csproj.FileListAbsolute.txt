@@ -1,0 +1,14 @@
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\bin\Debug\net8.0\CheckersGame.exe
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\bin\Debug\net8.0\CheckersGame.deps.json
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\bin\Debug\net8.0\CheckersGame.runtimeconfig.json
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\bin\Debug\net8.0\CheckersGame.dll
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\bin\Debug\net8.0\CheckersGame.pdb
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.AssemblyInfoInputs.cache
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.AssemblyInfo.cs
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.dll
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\refint\CheckersGame.dll
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.pdb
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\CheckersGame.genruntimeconfig.cache
+C:\Users\adm\Documents\ClientSidePro\CheckersConsole\CheckersGame\CheckersGame\obj\Debug\net8.0\ref\CheckersGame.dll
